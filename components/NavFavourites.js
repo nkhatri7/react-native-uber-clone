@@ -8,13 +8,13 @@ const data = [
         id: '123',
         icon: 'home',
         location: 'Home',
-        destination: '56 Scott St, Mortdale, NSW, Australia'
+        destination: '01 Home Rd, Sydney, NSW, Australia'
     },
     {
         id: '456',
         icon: 'briefcase',
         location: 'Work',
-        destination: '200 Stanmore Rd, Standmore, NSW, Australia'
+        destination: '200 Work St, Sydney, NSW, Australia'
     }
 ];
 
